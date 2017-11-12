@@ -6,6 +6,9 @@ Created on Sat Sep  9 15:43:15 2017
 """
 import numpy as np
 
+
+#hi!
+
 I_1 = [1, 1]
 I_2 = [1, 0]
 I_3 = [0, 1]
